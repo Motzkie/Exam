@@ -7,16 +7,15 @@
     "price": 500,
     "lat": 14.579343,
     "lng":120.972561
-    
   },
   {
     "id": 148,
     "name": "San Juan Surfing",
-    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/2.jpg",
+    "imageUrl": "http://two2travel.com/wp-content/uploads/2012/12/sanjuansurf.jpg",
     "priceCurrency": "km",
     "price": 200,
-    "lat": 16.2833,
-    "lng": 120.4833
+    "lat": 16.664376,
+    "lng":  120.327176
   },
   {
     "id": 201,
